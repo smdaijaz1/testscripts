@@ -1,0 +1,8 @@
+CREATE TABLE emp1 (
+  emp_id INT NOT NULL,
+  emp_firstname VARCHAR(30) NOT NULL,
+  emp_lastname VARCHAR(30) NOT NULL,
+  emp_dept VADRCHAR(30) NOT NULL,
+  PRIMARY KEY (emp_id),
+  
+);
