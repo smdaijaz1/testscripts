@@ -1,0 +1,9 @@
+we are creating a database for our employees information.Please check the databse details before you start your work.
+
+Databse name: test_employee.
+Tables: emp_info, 
+        emp_experience,
+        emp_workhours,
+        emp_department,
+        emp_salary.
+      
