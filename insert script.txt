@@ -1,0 +1,3 @@
+INSERT INTO emp_info VALUES ()
+INSERT INTO emp_experience VALUES ()
+INSERT INTO emp_workhours VALUES ()   
