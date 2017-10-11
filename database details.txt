@@ -1,7 +1,0 @@
-we are creating a database for our employees information.
-
-Databse name: test_employee.
-Tables: emp_info, 
-        emp_experience,
-        emp_workhours,
-            
